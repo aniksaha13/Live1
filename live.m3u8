@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-https://mahabuburbd.netlify.app/ptvsports.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=1280x720
-https://mahabuburbd.netlify.app/ptvsports.m3u8
+AKASH GO 
+#EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD 📺 (AKASH GO)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
