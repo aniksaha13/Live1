@@ -1,4 +1,8 @@
 #EXTM3U
-AKASH GO 
-#EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD 📺 (AKASH GO)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+ #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:5 #EXT-X-ALLOW-CACHE:YES #EXT-X-TARGETDURATION:16
+ #EXTINF:15.840000, http://51.159.212.144:8080/hls/91d37d863246deaf92921d75a36e10e2/245898_5.ts 
+#EXTINF:3.440000, http://51.159.212.144:8080/hls/e4d2d7e0acd212bb6d468aa642829a98/245898_6.ts 
+#EXTINF:14.000000, http://51.159.212.144:8080/hls/055b19f6519ebccbd852ba401a0d9efc/245898_7.ts 
+#EXTINF:6.520000, http://51.159.212.144:8080/hls/bccc679404ce7754b8e832573b0dd46c/245898_8.ts 
+#EXTINF:13.960000, http://51.159.212.144:8080/hls/abb9bc04586b706547d3fc075583ced8/245898_9.ts 
+#EXTINF:6.160000, http://51.159.212.144:8080/hls/867543e6fa37bfa07a149edb4209636e/245898_10.ts
